@@ -1,2 +1,2 @@
 # imagePickerController
-In this repo add how to fetch photo from gallery ios
+In this repo to show you how to fetch photo from gallery
